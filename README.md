@@ -11,8 +11,8 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/cobblucas/data_analysis_portfolio#about)
-- [Portfolio Projects](https://github.com/cobblucas/data_analysis_portfolio#portfolio-projects)
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/cobblucas/data-analyst-portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)  
   - SQL
@@ -20,9 +20,9 @@ This is a repository to showcase skills, share projects and track my progress in
   - R
     - [Legendary Pokémon Analysis](https://github.com/cobblucas/data-analyst-portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
-- [Education](https://github.com/cobblucas/data_analysis_portfolio#education)  
-- [Certificates](https://github.com/cobblucas/data_analysis_portfolio#certificates)
-- [Contact](https://github.com/cobblucas/data_analysis_portfolio#contacts)
+- [Education](#education)  
+- [Certificates](#certificates)
+- [Contact](#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
