@@ -25,7 +25,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review of the global and regional video games markets, data-based business recommendations.
 
 ## Education
-Chapman University: 
+Chapman University:
 Bachelor of Fine Arts - Graphic Design
 
 ## Certificates
