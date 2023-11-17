@@ -1,10 +1,10 @@
-# Lucas Cobb - Data Analyst Portfolio 
+# Lucas Cobb - Data Analyst Portfolio
 
 ## About
 
-Hi, I'm Lucas! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Department, and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company, starting from June 2021.   
+Hi, I'm Lucas! I have a technical background with 3 years of experience in the field of electrical distrobution, where I held the role of Senior Data Analyst with a focus on digital business.
 
-My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/cobb-lucas-resume.pdf) 
+My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/cobb-lucas-resume.pdf)
 
 ## Table of contents
 - [About](#about)
@@ -18,11 +18,15 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### IMDb Film Archive Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
+**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)  
+**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
+**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
 **Results:** Review of the global and regional video games markets, data-based business recommendations.
+
+## Education
+Chapman University: 
+Bachelor of Fine Arts - Graphic Design
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
@@ -53,8 +57,6 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
 - [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
 
-## Contacts
-- LinkedIn: [@nktnlx](https://www.linkedin.com/in/nktnlx)
-- Telegram: [@nktnlx](https://t.me/nktnlx)
-- Twitter: [@nktn_lx](https://twitter.com/nktn_lx)
-- E-mail: nktn.lx@gmail.com
+## Contact
+- LinkedIn: [@lucasdavidcobb](https://www.linkedin.com/in/lucasdavidcobb)
+- E-mail: lucasdcobb@gmail.com
