@@ -11,8 +11,8 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/cobblucas/data-analyst-portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/cobblucas/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/cobblucas/data-analyst-portfolio/blob/master/README.md#about)
+- [Portfolio Projects](https://github.com/cobblucas/data-analyst-portfolio/blob/master/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/cobblucas/data-analyst-portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)  
   - SQL
@@ -20,15 +20,15 @@ This is a repository to showcase skills, share projects and track my progress in
   - R
     - [Legendary Pokémon Analysis](https://github.com/cobblucas/data-analyst-portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
-- [Education](https://github.com/cobblucas/data-analyst-portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/cobblucas/data-analyst-portfolio/blob/main/README.md#certificates)
-- [Contact]https://github.com/cobblucas/data-analyst-portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/cobblucas/data-analyst-portfolio/blob/master/README.md#education)  
+- [Certificates](https://github.com/cobblucas/data-analyst-portfolio/blob/master/README.md#certificates)
+- [Contact]https://github.com/cobblucas/data-analyst-portfolio/blob/master/README.md#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/cobblucas/data-analyst-portfolio/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/cobblucas/data-analyst-portfolio/blob/master/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
@@ -43,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Tech Store Sales Analysis
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/master/Tech%20Store%20Sales%20Analysis.ipynb)
 
 **Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
 
@@ -54,7 +54,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
 ### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/master/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
@@ -63,7 +63,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** SQL Server
 
 ### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/master/COVID%20Portfolio%20Project.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -74,7 +74,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Legendary Pokémon Analysis
 **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/master/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
 **Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
