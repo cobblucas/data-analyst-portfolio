@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Lucas! I have a technical background with 3 years of experience in the field of electrical distrobution, where I held the role of Senior Data Analyst with a focus on digital business.
+Hey there, I'm Lucas! I've spent the last three years navigating the world of electrical distribution, wearing the hat of a Senior Data Analyst. My gig? Diving deep into digital analytics to shake things up and push businesses forward. In my portfolio, you'll get to know the real me—someone who's all about turning data into stories of innovation and impact. Ready to take a peek?
 
 My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/cobb-lucas-resume.pdf)
 
@@ -15,47 +15,22 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 - [Contact](#contacts)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### IMDb Film Archive Analysis
 **Code:** [`imdb_analysis.ipynb`](https://github.com/cobblucas/imdb-analysis/blob/master/IMDb%20Analysis.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Description:** The dataset contains 5044 records as of 2021. There is a list of films with associated budget, year of release, language, country and user votes. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors and hypothesis testing.  
+**Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.  
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
 
 ## Education
 Chapman University:
 Bachelor of Fine Arts - Graphic Design
 
 ## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Advanced A/B Testing Course](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)
-- [Algorithms Training 3.0 by Yandex](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (Apr 2023) (Yandex)
-- [Data Structures & Algorithms in Python](https://drive.google.com/file/d/1iRxdsndxcPoww3QvQIpDvq9rl_NcmoPj/view?usp=share_link) (Mar 2023) (Udacity - Google)
-- [A/B Testing](https://drive.google.com/file/d/15eC0plclsU2f3WFzQ7_cVvc-mA8M3h1Z/view?usp=share_link) (Feb 2023) (Udacity - Google)
-- [Teamlead 101](https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing) (Jul 2022) (Stratoplan Management School)
-- [sklearn ML course](https://drive.google.com/file/d/1aUNxDbRCgnKkSzq6LPLRY91Of3L_AyR7/view?usp=sharing) (May 2022) (France Université Numérique)
-- [Intermediate Machine Learning](https://drive.google.com/file/d/1kqQFRhJtI097SJ7udZVbLRAJBddvWW4S/view?usp=sharing) (Aug 2021) (Kaggle)
-- [Intro to Machine Learning](https://drive.google.com/file/d/1cdL1XluCHCKmG0AarthZm74kiem5y33o/view?usp=sharing) (Aug 2021) (Kaggle)
-- [Data Analyst Specialization](https://drive.google.com/file/d/16WKsX7z5LpMo1VxpZc7CQsWNzYfUzB6f/view?usp=sharing) (Jul 2021) (karpov.courses)
-- [Jira and Confluence basics](https://drive.google.com/file/d/1dTCQGwKoEjBWmeaXHuktiEyYtRvvLPY-/view?usp=sharing) (Jun 2021) (GeekBrains)
-- [Databases for Developers: SQL Foundations](https://drive.google.com/file/d/13dHqXw8Ew3r1XfSxPBkT2lF9_1I3M9cu/view?usp=sharing) (Jun 2021) (Oracle)
-- [Data Analysis Course Tinkoff-MSU](https://drive.google.com/file/d/15OIzi5H3Kxs4-8gx7FNgMrW1FNdueEKC/view?usp=sharing) (May 2021) (Tinkoff Education)
-- [Data Analyst Professional Development Training](https://drive.google.com/file/d/1NqtzP6P5nLn5oSOYNRdq-wZBv6FoheJu/view?usp=sharing) (Mar 2021) (Yandex Praktikum & University 20.35)
-- [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Mar 2021) (Qlik Q, accenture, Data Yoga)
-- [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (Jan 2021) (RealPython)
-- [Fintech Trends](https://drive.google.com/file/d/1L9MISA6nYsf0mJ8c6Mp3davLv-yWKzt7/view?usp=sharing) (Dec 2020) (Tinkoff Education) 
-- [Data Science Math Skills](https://coursera.org/share/03d1c12de0037c35bb3dd1e35d23f4d6) (Oct 2020) (Coursera - Duke University)
-- [Computer Science Career Path](https://drive.google.com/file/d/1cCcg7Uf4qqGq6B5OFLBPrNAA3ncEYgXD/view?usp=sharing) (Jul 2020) (Codecademy)
-- [Learn the Command Line Course](https://drive.google.com/file/d/1yPtPFhvKmsv9rmJbvf3dtarXavpsi6lq/view?usp=sharing) (Jul 2020) (Codecademy)
-- [Learn Git Course](https://drive.google.com/file/d/19DrPoYxcjijNvIbnXF959uIO_Kl7TOZ1/view) (Jun 2020) (Codecademy)
-- [Learn Python 3 Course](https://drive.google.com/file/d/1VTGmE15-QbwMyscxVpAAKAwllZgc1a8c/view?usp=sharing) (Jun 2020) (Codecademy)
-- [English for Career Development](https://coursera.org/share/f7e97252ee37a74d3c1f57f54f5d5a54) (Feb 2018) (Coursera - University of Pennsylvania)
-- [Learning How to Learn](https://coursera.org/share/5e7320a42bee969f6e9e6325559e7215) (Feb 2018) (Coursera - University of California San Diego)
-- [Fundamentals of Project Planning and Management](https://coursera.org/share/e90fb632268a6c233b6e229c7d068e8f) (Oct 2015) (Coursera - University of Virginia)
-- [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
-- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
+- [ContentSquare Certification](https://verify.skilljar.com/c/zf94xzd2ro5i) (Sep 2023) (skilljar.com)
+- [Advanced Google Tag Manager Certification](https://www.linkedin.com/learning/certificates/eb0fb44f49b3bb56f4a23aa4aca3198026f0e080307b6c82f4482ada6d9905a4) (Nov 2021) (linkedin.com/learning)
+- [Google Analytics 4 Certification](https://www.linkedin.com/learning/certificates/d50cbb149558376dc0dbe9f8a5d1ee448097e7cff27926e501d1ea838dcdea01) (Nov 2021) (linkedin.com/learning)
+- [Adobe XD Certification](https://www.linkedin.com/learning/certificates/dc229bd33a01d2526fa5f536806cd6c445cc4050d5b37212b0f13940a3b5d288) (Apr 2021) (linkedin.com/learning)
 
 ## Contact
 - LinkedIn: [@lucasdavidcobb](https://www.linkedin.com/in/lucasdavidcobb)
