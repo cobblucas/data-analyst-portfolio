@@ -10,7 +10,7 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [IMDb Film Archive Analysis](#imdb-film-archive-analysis)
-	+ [Transport for London Analysis](#transport_for_london_analysis)
+	+ [Transport for London Analysis](#transport-for-london-analysis)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contacts)
