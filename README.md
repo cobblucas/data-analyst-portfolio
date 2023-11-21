@@ -11,6 +11,7 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 - [Portfolio Projects](#portfolio-projects)
 	+ [IMDb Film Archive Analysis](#imdb-film-archive-analysis)
 	+ [Transport for London Analysis](#transport-for-london-analysis)
+	+ [Marketing Analysis Using SQL](#marketing-analysis-using-sql)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contacts)
@@ -25,6 +26,12 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 
 ### Transport for London Analysis
 **Code:** [`transport_for_london_analysis.ipynb`](https://github.com/cobblucas/transport-for-london-analysis/blob/master/Transport%20For%20London%20Analysis.ipynb)    
+**Description:** The dataset contains 500 records as of 2021. There is a list of train lines with associated coordinats, network, line name, overground and underground. The project includes the following steps: data loading, data cleaning and preprocessing, removing null values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors and hypothesis testing.  
+**Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.  
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Plotly, GeoPandas, Folium, hvPlot.  
+
+### Marketing Analysis Using SQL
+**Code:** [`marketing_analysis_using_sql.ipynb`](https://github.com/cobblucas/marketing-analysis-sql/blob/master/Marketing%20Analysis%20Using%20SQL.ipynb)    
 **Description:** The dataset contains 500 records as of 2021. There is a list of train lines with associated coordinats, network, line name, overground and underground. The project includes the following steps: data loading, data cleaning and preprocessing, removing null values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors and hypothesis testing.  
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Plotly, GeoPandas, Folium, hvPlot.  
