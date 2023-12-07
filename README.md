@@ -38,7 +38,7 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 
 ## Education
 Chapman University:
-Bachelor of Fine Arts - Graphic Design
+Bachelor of Science - Data Analytics
 
 ## Certificates
 - [Google Data Analytics Certificate](https://www.credly.com/badges/824f3ce3-8a41-4b29-9536-d9330e41d950) (Dec 2023) (coursera.org)
