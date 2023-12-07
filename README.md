@@ -41,7 +41,7 @@ Chapman University:
 Bachelor of Fine Arts - Graphic Design
 
 ## Certificates
-- [Google Data Analytics Certificate](https://www.credly.com/badges/824f3ce3-8a41-4b29-9536-d9330e41d950)
+- [Google Data Analytics Certificate](https://www.credly.com/badges/824f3ce3-8a41-4b29-9536-d9330e41d950) (Dec 2023) (coursera.org)
 - [ContentSquare Certification](https://verify.skilljar.com/c/zf94xzd2ro5i) (Sep 2023) (skilljar.com)
 - [Advanced Google Tag Manager Certification](https://www.linkedin.com/learning/certificates/eb0fb44f49b3bb56f4a23aa4aca3198026f0e080307b6c82f4482ada6d9905a4) (Nov 2021) (linkedin.com/learning)
 - [Google Analytics 4 Certification](https://www.linkedin.com/learning/certificates/d50cbb149558376dc0dbe9f8a5d1ee448097e7cff27926e501d1ea838dcdea01) (Nov 2021) (linkedin.com/learning)
