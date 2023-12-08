@@ -9,6 +9,7 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+	+ [Retail Management Metrics](#retail-management-metrics)
 	+ [IMDb Film Archive Analysis](#imdb-film-archive-analysis)
 	+ [Transport for London Analysis](#transport-for-london-analysis)
 	+ [Marketing Analysis Using SQL](#marketing-analysis-using-sql)
@@ -18,21 +19,37 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 
 ## Portfolio Projects
 
+### Retail Management Metrics
+**Code:** [`retail-management-metrics.pbix`](https://github.com/cobblucas/retail-management-metrics/blob/master/retail-management-metrics.pbix)    
+**Description:** This project employs visualizations, including AI-driven smart narratives, scatter plots, and bar charts, to offer insights into the evolution of technology sales over time. The dataset consolidates information from various sources, presenting coherent time-series data on sales across different regions in the United States. To examine individual regions, users can utilize the slicers located at the top of each page.
+
+The analysis delves into product and customer dynamics across multiple pages, incorporating pie charts and tabular data matrices. These visual representations illustrate a positive upward trend in sales from the beginning to the end of the year.
+
+Additionally, the project conducts a detailed examination of purchasing patterns, distinguishing between new and returning customers, with a specific emphasis on repeat purchases occurring within 30 and 60 consecutive days.
+
+Lastly, the focus shifts to category sales, exploring their contribution to profit and trends in units sold. The analysis also considers the impact of discounts on profit margins.
+  
+**Skills:** data analysis, data cleaning, data modeling, data visualization, table relationships.  
+**Technology:** SQL, DAX, Power Query, Power BI
+
 ### IMDb Film Archive Analysis
 **Code:** [`imdb_analysis.ipynb`](https://github.com/cobblucas/imdb-analysis/blob/master/IMDb%20Analysis.ipynb)    
 **Description:** The dataset contains 5044 records as of 2021. There is a list of films with associated budget, year of release, language, country and user votes. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors and hypothesis testing.  
+
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
 
 ### Transport for London Analysis
 **Code:** [`transport_for_london_analysis.ipynb`](https://github.com/cobblucas/transport-for-london-analysis/blob/master/Transport%20For%20London%20Analysis.ipynb)    
 **Description:** The dataset contains 500 records as of 2021. There is a list of train lines with associated coordinats, network, line name, overground and underground. The project includes the following steps: data loading, data cleaning and preprocessing, removing null values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors and hypothesis testing.  
+
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Plotly, GeoPandas, Folium, hvPlot.  
 
 ### Marketing Analysis Using SQL
 **Code:** [`marketing_analysis_using_sql.ipynb`](https://github.com/cobblucas/marketing-analysis-sql/blob/master/Marketing%20Analysis%20Using%20SQL.ipynb)    
 **Description:** The business objective is to analyze the success of marketing campaigns and gain insights into transaction data for Sustainable Clothing Co. The approach involves analyzing transaction data, marketing campaign data, and product information to answer specific questions related to campaign effectiveness, sales performance, revenue generation, and product analysis.  
+
 **Skills:** sql database creation, database merging, data analysis, descriptive statistics.  
 **Technology:** Python, Pandas, Numpy, sqlite3.  
 
