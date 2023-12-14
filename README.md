@@ -12,6 +12,7 @@ My CV in [pdf](https://github.com/cobblucas/data-analyst-portfolio/blob/master/c
 	+ [Call Center Support Metrics](#call-center-support-metrics)
 	+ [Headcount Metrics](#headcount-metrics)
 	+ [IMDb Film Archive Analysis](#imdb-film-archive-analysis)
+	+ [Manufacturing Metrics](#manufacturing-metrics)
 	+ [Marketing Analysis Using SQL](#marketing-analysis-using-sql)
 	+ [Medical Visits Metrics](#medical-visits-metrics)
 	+ [Retail Management Metrics](#retail-management-metrics)
@@ -55,6 +56,19 @@ Lastly, the focus shifts to attrition trends, exploring headcount by attrition s
 
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib. 
+
+### Manufacturing Metrics
+**Project:** [`manufacturing-metrics`](https://github.com/cobblucas/manufacturing-metrics)    
+**Description:** This project employs visualizations, including AI-driven smart narratives, pie charts, and bar graphs, to offer insights into the evolution of manufacturing metrics over time. The dataset consolidates information from various sources, presenting coherent time-series data on manufacturing times. To examine manufacturing metrics by year, users can utilize the slicer located towards the top of each page.
+
+The analysis delves into production and operating time across multiple pages, incorporating pie charts and tabular data matrices. These visual representations illustrate equipment effectiveness, total produced, finished goods and scraps metrics.
+
+Additionally, the project conducts a detailed examination of production, distinguishing between production versus production previous year, with a specific emphasis on total produced and showcases scrap counts by shift.
+
+Lastly, the focus shifts to operating time, exploring downtime by week across the month. The analysis also considers runtime versus planned runtime per hour.
+  
+**Skills:** data analysis, data cleaning, data modeling, data visualization, table relationships.  
+**Technology:** SQL, DAX, Power Query, Power BI
 
 ### Marketing Analysis Using SQL
 **Code:** [`marketing_analysis_using_sql.ipynb`](https://github.com/cobblucas/marketing-analysis-sql/blob/master/Marketing%20Analysis%20Using%20SQL.ipynb)    
